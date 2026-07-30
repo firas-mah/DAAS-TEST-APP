@@ -193,7 +193,7 @@ function App() {
                 Edit
               </button>
               <button className="btn btn-danger btn-sm" onClick={() => handleDelete(note.id)}>
-                Delete
+                Deletee
               </button>
             </div>
           </div>
